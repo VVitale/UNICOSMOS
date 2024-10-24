@@ -12,7 +12,7 @@ Although it is widely recognized that enhanced electron-electron interactions dr
 In UNICOSMOS I propose to develop an efficient multi-scale framework that integrates various theoretical and computational techniques to investigate quantum phases in TMD moiré superlattices. Specifically, I will combine classical force field calculations, *ab initio* tight-binding methods, and many-body approaches to overcome the limitations of conventional first-principles methods, while preserving their predictive accuracy.
 
 <div style="text-align: center;">
-  <img src="/images/summary.jpg" alt="summary_image" width="30%" /> 
+  <img src="images/summary.jpg" alt="summary_image" width="30%" /> 
   <p>Schematics of charge-ordered state in a TMD moire trilayer, highlighting the emergence of triangular and honeycomb lattices</p>
 </div>
 
@@ -59,5 +59,5 @@ Mohammad Ali Mohebpour, Sahar Izadi Vishkayi, Valerio Vitale, Nicola Seriani, an
 [Link to PRB](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.110.035429)
 [Link to arXiv](https://doi.org/10.48550/arXiv.2407.09071)
 
-<img src="/images/europeancommission_logo.jpg" alt="EU logo" width="20%" />
-<img src="/images/logo.png" alt="MSCA logo" width="10%" />
+<img src="images/europeancommission_logo.jpg" alt="EU logo" width="20%" />
+<img src="images/logo.png" alt="MSCA logo" width="10%" />
