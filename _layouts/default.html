@@ -40,13 +40,13 @@
     <header>
         <nav>
             <ul>
-                <li><a href="/">Home</a></li>
-                <li><a href="/unicosmos.html">UNICOSMOS</a></li>
-                <li><a href="/about.html">About Me</a></li>
-                <li><a href="/publications.html">Publications</a></li>
-                <li><a href="/codes.html">Codes</a></li>
-                <li><a href="/events.html">Events</a></li>
-                <li><a href="/contact.html">Contact</a></li>
+                <li><a href="{{ site.baseurl }}/">Home</a></li>
+                <li><a href="{{ site.baseurl }}/unicosmos.html">UNICOSMOS</a></li>
+                <li><a href="{{ site.baseurl }}/about.html">About Me</a></li>
+                <li><a href="{{ site.baseurl }}/publications.html">Publications</a></li>
+                <li><a href="{{ site.baseurl }}/codes.html">Codes</a></li>
+                <li><a href="{{ site.baseurl }}/events.html">Events</a></li>
+                <li><a href="{{ site.baseurl }}/contact.html">Contact</a></li>
             </ul>
         </nav>
     </header>
@@ -57,7 +57,7 @@
     </main>
 
     <footer>
-        <p>Created by Valerio Vitale</p>
+        <p>&copy; {{ site.time | date: "%Y" }} {{ site.title }}. Created by Valerio Vitale. All rights reserved.</p>
     </footer>
 
 </body>
