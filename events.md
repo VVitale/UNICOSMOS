@@ -42,14 +42,26 @@ As a result, moiré physics touches many aspects of condensed matter physics, fr
 - F. WANG, University of California Berkeley, USA
 - A. YAZDANI, Princeton University, USA
 
+<div style="text-align: center;">
+  <img src="images/Poster_3836.pdf" alt="poster_frontiers" width="30%" /> 
+</div>
+
+
 [Link to webpage](https://indico.ictp.it/event/10456)
 
 # One-day symposium on scientific machine learning
 
 The symposium focused on cutting edge applications of machine learning techniques in physics, but also in other scientific fields such as chemistry and biology. It will feature two seminars by internationally renowned speakers and contributed talks by young and early career researchers from Trieste research institutions.
 
+**Invited Speakers**
+- Gábor Csányi, University of Cambridge, UK
+- Giulio Biroli, École Normale Supérieure, Paris
+
 [Link to webpage](https://df.units.it/it/eventi/62716)
 
+<div style="text-align: center;">
+  <img src="images/locandina_landscape_v6.pdf" alt="locandina" width="30%" /> 
+</div>
 
 # Workshop on on Frontiers in Excited State Electronic Structure Methods: from Spectroscopy to Photochemistry
 
@@ -94,5 +106,9 @@ This workshop will gather code developers from several electronic structure pack
 - D. SCHERLIS, University of Buenos Aires, Argentina
 - A. TROISI, University of Liverpool, UK
 - D. VARSANO, CNR, Italy
+
+<div style="text-align: center;">
+  <img src="images/Poster_3918.pdf" alt="poster_moire" width="30%" /> 
+</div>
 
 [Link to webpage](https://indico.ictp.it/event/10170/)
