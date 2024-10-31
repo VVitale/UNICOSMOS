@@ -60,7 +60,7 @@ The symposium focused on cutting edge applications of machine learning technique
 [Link to webpage](https://df.units.it/it/eventi/62716)
 
 <div style="text-align: center;">
-  <img src="images/locandina_landscape_v6.pdf" alt="locandina" width="30%" /> 
+  <img src="images/Slide2.jpeg" alt="locandina" width="30%" /> 
 </div>
 
 # Workshop on on Frontiers in Excited State Electronic Structure Methods: from Spectroscopy to Photochemistry
