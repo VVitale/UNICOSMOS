@@ -64,7 +64,7 @@ The symposium focused on cutting edge applications of machine learning technique
 
 # Workshop on on Frontiers in Excited State Electronic Structure Methods: from Spectroscopy to Photochemistry
 
-Workshop on excited state methods, held at the Abdus Salam International Centre for Theoretical Physics (ICTP), May 16 - 19 2023, Trieste, Italy
+Workshop on excited state methods, held at the Abdus Salam International Centre for Theoretical Physics (ICTP), May 16 - 19 2023, Trieste, Italy [Link to webpage](https://indico.ictp.it/event/10170/)
 
 
 This workshop will gather code developers from several electronic structure packages  (Quantum Espresso, Orca, DFTB+, LiÔ, SIESTA, Newton-X, Yambo, BigDFT, Onetep, SHARC, Octopus, etc) involved in excited state method developments and applications. We will focus our discussions on practical challenges, implementation bottlenecks, state-of-the-art methodological developments, as well as limitations in real systems applications. 
@@ -110,4 +110,3 @@ This workshop will gather code developers from several electronic structure pack
   <img src="images/Poster_3836.jpeg" alt="poster_moire" width="30%" /> 
 </div>
 
-[Link to webpage](https://indico.ictp.it/event/10170/)
