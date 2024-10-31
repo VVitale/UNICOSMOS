@@ -5,7 +5,7 @@ title: Events
 
 # Workshop on Twistronics and moire' materials: Bridging theory and experiments
 
-Workshop on moire materials, held at the Abdus Salam International Centre for Theoretical Physics (ICTP), Jan 16 - 19 2024, Trieste, Italy
+Workshop on moire materials, held at the Abdus Salam International Centre for Theoretical Physics (ICTP), Jan 16 - 19 2024, Trieste, Italy [Link to webpage](https://indico.ictp.it/event/10456)
 
 The aim of the workshop was to gather world-leading theorists and experimentalists in the field of moiré materials and to create a fertile environment for fostering ideas, promoting cross-talk between communities, and exposing researchers worldwide to the great variety of exotic phenomena in these materials.
 One of the most exciting developments in condensed matter physics in recent years is the emergence of moiré materials as a versatile platform to study quantum phases of matter. These materials exhibit a plethora of exotic quantum phenomena, including unconventional superconductivity, correlated insulating states, orbital magnetism, quantum anomalous Hall states, cascades of phase transitions, Chern insulators, unconventional ferroelectricity and superlubricity.
@@ -43,21 +43,20 @@ As a result, moiré physics touches many aspects of condensed matter physics, fr
 - A. YAZDANI, Princeton University, USA
 
 <div style="text-align: center;">
-  <img src="images/Poster_3836.pdf" alt="poster_frontiers" width="30%" /> 
+  <img src="images/Poster_3918.jpeg" alt="poster_frontiers" width="30%" /> 
 </div>
 
 
-[Link to webpage](https://indico.ictp.it/event/10456)
 
 # One-day symposium on scientific machine learning
+
+Symposium on scientific machine learning, held at the University of Trieste, Sep. 26 2023 [Link to webpage](https://df.units.it/it/eventi/62716)
 
 The symposium focused on cutting edge applications of machine learning techniques in physics, but also in other scientific fields such as chemistry and biology. It will feature two seminars by internationally renowned speakers and contributed talks by young and early career researchers from Trieste research institutions.
 
 **Invited Speakers**
 - Gábor Csányi, University of Cambridge, UK
 - Giulio Biroli, École Normale Supérieure, Paris
-
-[Link to webpage](https://df.units.it/it/eventi/62716)
 
 <div style="text-align: center;">
   <img src="images/Slide2.jpeg" alt="locandina" width="30%" /> 
@@ -108,7 +107,7 @@ This workshop will gather code developers from several electronic structure pack
 - D. VARSANO, CNR, Italy
 
 <div style="text-align: center;">
-  <img src="images/Poster_3918.pdf" alt="poster_moire" width="30%" /> 
+  <img src="images/Poster_3836.jpeg" alt="poster_moire" width="30%" /> 
 </div>
 
 [Link to webpage](https://indico.ictp.it/event/10170/)
